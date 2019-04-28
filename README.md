@@ -1,4 +1,4 @@
-#Google Coding Competitions
+# Google Coding Competitions
 
 These are my submissions for code jam and kick start
 
