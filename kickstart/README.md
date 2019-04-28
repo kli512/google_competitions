@@ -1,4 +1,5 @@
 #kick start
+
 These are my submissions for Google kick start thus far
 
 | Round        | Score  | Rank     |

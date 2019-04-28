@@ -1,4 +1,5 @@
 #Qualification Round 2019
+
 These are my submissions and the scores I received on the problems presented in Qualification Round 2019
 
 | Problem                 | Score         |
